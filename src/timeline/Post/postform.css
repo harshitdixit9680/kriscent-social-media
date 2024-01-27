@@ -1,0 +1,49 @@
+/* Add this CSS to your stylesheet or in-line style */
+.form-set{
+    /* max-width: 400px; */ 
+    margin: 56px;
+    width: 58%;
+    margin-top: 65px;
+    padding: 26px;
+    BACKGROUND-COLOR: white;
+    color: black;
+    border-radius: 17px;
+}
+
+form {
+    /* max-width: 400px;
+    margin: auto; */
+  }
+  
+  label {
+    display: block;
+    margin-bottom: -19px;
+  }
+  
+  input[type="text"],
+  textarea {
+   width: 100%;
+    padding: 8px;
+    margin-bottom: -1px;
+    box-sizing: border-box;
+    border: 2px solid #432f2f;
+    border-radius: 19px;
+  }
+  
+  input[type="file"] {
+    margin-bottom: 16px;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
